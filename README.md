@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Amie Liu
+
+I am a university student studying Bachelor of Information program at the University of Toronto.
 
 <!--
 **AmieLiu/AmieLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
